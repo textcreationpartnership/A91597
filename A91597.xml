@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Questions of common right, proper and necessary to be considered by all Knights, gentlemen, free-holders, and commoners of England, and especially those of the honourable profession of the law</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91597</idno>
+            <idno type="STC">Wing Q182C</idno>
+            <idno type="STC">ESTC R230136</idno>
+            <idno type="EEBO-CITATION">99899447</idno>
+            <idno type="PROQUEST">99899447</idno>
+            <idno type="VID">153505</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91597)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153505)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2368:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Questions of common right, proper and necessary to be considered by all Knights, gentlemen, free-holders, and commoners of England, and especially those of the honourable profession of the law</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Communication --  Early works to 1800.</term>
+               <term>Lawyers --  England --  Early works to 1800.</term>
+               <term>Questions and answers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153505:1" rendition="simple:additions"/>
+            <head>QUESTIONS OF Common Right, <hi>Proper and Neceſſary</hi> to be conſidered by all <hi>Knights, Gentlemen, Free-hold<g ref="char:EOLhyphen"/>ers, and</hi> Commoners of England, <hi>and eſpecially thoſe of the Honourable Profeſſion of the Law.</hi>
+            </head>
+            <p>
+               <hi>THE true</hi> Engliſh <hi>Government,</hi> excellently compoſed of the three Simple Species, <hi>Monarchy, Ariſtocracy,</hi> and <hi>Demo<g ref="char:EOLhyphen"/>cracy,</hi> I have long thought, and ſtill think, to be <hi>in its Con<g ref="char:EOLhyphen"/>ſtitution,</hi> one of the <hi>Beſt</hi> Governments in the World; and not more excellent in it ſelf, than well <hi>Accommodated</hi> to the Genius of the People; and which is but the conſequence of theſe, moſt <hi>Eaſy to be Exerciſed.</hi> This I think very true, tho' it hath already within our Memory, ſuffer'd ſuch diſmal <hi>Concuſſions and Confuſions,</hi> and, in my apprehenſion, is in in ſo great Danger of more, as if there was nothing of Truth in it. But this doth not proceed from the Conſtitution; but from other <hi>Cauſes:</hi> Whereof one is <hi>Secret, The Judgment of God,</hi> for a ſecret <hi>Root of Bitterneſs,</hi> little regarded by thoſe, who ought to be moſt Skilful in diſcerning, and moſt Active in amending ſuch Matters. But there are others manifeſt enough: One is a General <hi>Corruption of the Manners</hi> of
+<pb n="2" facs="tcp:153505:2"/>the People: Another notorious <hi>Corruption of their Deputies and Repre<g ref="char:EOLhyphen"/>ſentatives,</hi> both in <hi>Manners</hi> in general, and in reſpect of <hi>Juſtice and the Truſt</hi> repoſed in them; in which reſpect, I have known ſome of themſelves laugh, and ſay, that they are <hi>the true Repre<g ref="char:EOLhyphen"/>ſentatives of the Nation</hi> indeed. And tho' this of it ſelf hath a Tendence to the Diſſolution of the Government, yet there is another more dangerous than this, if it be not look'd to in time: and that is by <hi>Popular Factions.</hi> For as Monarchies are apt to de<g ref="char:EOLhyphen"/>generate into Tyranny, ſo Democracies are as apt to be diſſolv'd by Factions: And tho' in the <hi>Engliſh</hi> Conſtitution there is as good Proviſion againſt both theſe, as <hi>Humane</hi> Affairs are capable of, yet are the Parts of which it is conſtituted, ſubject in ſome ſort, to the Corruptions of thoſe ſimple Species, from which they are derived. What was it but a ſecret Faction in the Long Parlia<g ref="char:EOLhyphen"/>ment, which firſt caſt out the Biſhops as Popiſhly affected, then the Lords as Uſeleſs and Dangerous, then the greateſt part of the Commons, except themſelves, commonly call'd, <hi>The Rump;</hi> then cut off the King's Head; and brought all into ſuch Confu<g ref="char:EOLhyphen"/>ſions as could never be ſettled, until the old Form was reſtored again? What was it but a Faction, which by no leſs than three ſeveral Acts of Parliament engag'd the Clergy, the Corporations, the Militia, and all the great Officers and Magiſtrate; of the Nation, in ſuch Declarations, as juſtify or excuſe the Adverſaries of the late Re<g ref="char:EOLhyphen"/>volution and make the Severities againſt them and Pretence of Forfei<g ref="char:EOLhyphen"/>tures, inexcuſable, unjuſt, and unreaſonable? What is it but a Faction, which hath preſum'd with ſo much Inſolence to offer ſuch Indignities to a Prince of ſo Great Courage and Conduct, as hath been com<g ref="char:EOLhyphen"/>monly believed and talk'd to have been on purpoſe to affront him? How near have ſuch Factions gone to inſlave the Nation, and ſet up the Monarchy to be Abſolute and Arbitrary? And how fairly have they begun to pull down that, and the Ariſtrocratical part, and ſet up the Democracy, or themſelves and they know not what; or rather to introduce an Anarchy, and turn all into the like Confuſions again. What ſuch things may come to in time, if neglected, no man knows; but what may be done to prevent the Miſchief, is fit to be conſidered. Miſcarriages of Juries may be enquir'd into: And what is done amiſs in one Parliament may be rectified in another. And where there is manifeſtly a Truſt re<g ref="char:EOLhyphen"/>poſed, and ſo great a Truſt, it would be ſuch a Fault in this Conſtitution as I never ſuſpected, if it might be falſified in ſuch Matters as theſe, and without Remedy. I have therefore thought
+<pb n="3" facs="tcp:153505:2"/>fit to propoſe the following QUESTIONS to the Conſideration of all Perſons concern'd, who think fit to concern themſelves with them. But into ſo great Degeneracy, Corruption of Manners and Audacious Impiety, is this Nation Sunk, Thar it is rare to meet with Men, who dare to do their Duty, or ſo much as aſ<g ref="char:EOLhyphen"/>ſert their Common Rights, or the very Religion they Profeſs, notwithſtanding the Laws both of God and Man on their ſide, and even where they have not only the greateſt <hi>Obligation,</hi> but the greateſt <hi>Priviledge</hi> to do it that can be. This is manifeſt be<g ref="char:EOLhyphen"/>yond all Contradiction by ſome late Actions of great Inſolence, and no leſs Impiety: So that unleſs <hi>another Parliament,</hi> and a <hi>Con<g ref="char:EOLhyphen"/>vocation of the Clergy</hi> take the Matter into good Conſideration, and provide a ſpeedy Remedy, there is great Danger that the whole Nation will ſpeedily fall into great Confuſion.</p>
+            <p>The QUESTIONS are theſe:
+<list>
+                  <item>I. Whether the ſeveral <hi>Members of the Houſe of Commons</hi> be not <hi>Authoriſed</hi> to Sit and Act there, by their reſpective Counties, Ci<g ref="char:EOLhyphen"/>ties, and Burroughs, by Indenture under the Hands and Seals of the Principal Electors for themſelves and the reſt, as Deputies and Truſtees for them all?</item>
+                  <item>II. Whether they ought not to <hi>receive Inſtructions</hi> from, and in all Matters of moment <hi>conſult</hi> and adviſe with their Principals?</item>
+                  <item>III. Whether it be not <hi>the Right and Duty of every</hi> Knight, Gentleman, Freehold, and <hi>Commoner</hi> of <hi>England,</hi> to repreſent to the Houſe of Commons by their proper Repreſentatives, or any other Member of the Houſe, all ſuch matters of Publick Con<g ref="char:EOLhyphen"/>cern as are proper to be enquir'd of and conſidered there?</item>
+                  <item>IV. Whether any <hi>Commoner</hi> of <hi>England</hi> may not require his proper Repreſentative to repreſent any ſuch Matter to the Houſe?</item>
+                  <item>V. Whether it be not a Breach of Truſt in any ſuch Deputy or Repreſentative not to perform what is ſo required honeſtly and faithfully?</item>
+                  <item>VI. Whether they be not <hi>accountable for their Behaviour</hi> in Par<g ref="char:EOLhyphen"/>liament to their Principals, by and for whom they are deputed and intruſted; that is, <hi>queſtionable</hi> by thoſe of the Counties in their County Court (to which all owe Suit and Service, but many neg<g ref="char:EOLhyphen"/>lect it to their common Prejudice) and thoſe of the Cities and Burroughs in their reſpective proper Courts and Aſſemblies, and <hi>Puniſhable</hi> for any notorious Breach of their Truſt upon Com<g ref="char:EOLhyphen"/>plaint in Parliament?</item>
+                  <pb n="4" facs="tcp:153505:3" rendition="simple:additions"/>
+                  <item>VII. Whether <hi>Matters</hi> touching the Honour of Religion, the Honour of the King, the common Right of all the Commoners of <hi>England,</hi> and the Encouragement, or Diſcouragement of the Execution of the Laws, be not <hi>proper</hi> Matters to be repreſent<g ref="char:EOLhyphen"/>ed, enquired and conſidered there?</item>
+                  <item>VIII Whether it be not <hi>
+                        <g ref="char:V">Ʋ</g>nparliamentary,</hi> a Breach of Truſt, and great <hi>Violation of a Fundamental Right of all the Commoners of England,</hi> for a ſmall number of the Members with their Speaker before the Houſe be full, <hi>to Vote that a Petition Exhibited for any ſuch Matter,</hi> as aforeſaid, <hi>ſhould not be read?</hi>
+                  </item>
+                  <item>IX. Whether it be Parliamentary or agreeable to the uſual Courſe of Parliaments, <hi>to Vote a Petition or Letter of Complaint</hi> for any Contempt of Religion, or Diſhonour or Indignity to the King, or Factious, or Seditious Practices, to be a falſe and ſcandalous Libel, and the Complainant to be proſecuted before he hath been heard at the Bar, or had notice to appear and prove his Complaint?</item>
+                  <item>X. Whether the Fundamental and <hi>Common Rights of all the Commons of England</hi> be not of greater Importance to be Pre<g ref="char:EOLhyphen"/>ſerved and Maintained Inviolably than any of the <hi>Priviledges of their Deputies,</hi> which they have only in Reſpect of their De<g ref="char:EOLhyphen"/>putation and Truſt repoſed in them (of which ſome are often Complained of by their Principals as Abuſed to their Prejudice?)</item>
+                  <item>XI. Whether it be not the <hi>Common Intereſt</hi> of the Government of <hi>England,</hi> and of all the Commons, and the <hi>Duty of every Subject</hi> to maintain and defend the Honour and Dignity of the King, when there is occaſion, as well as the Rights and Liberties of themſelves, and their Fellow-Commoners, by the Common Law of Loyalty and Allegiance, and of all Members of Parliament, Magiſtrates and Officers, <hi>&amp;c.</hi> by ſpecial Obligation of their So<g ref="char:EOLhyphen"/>lemn Oath?</item>
+                  <item>XII. Whether all Conſpiracies and Practices which have a natural Tendency to diſſolve, interrupt, or abate the mutual Confidence that ought to be preſerved and maintain'd between the King and the People, and to draw the Affections of the People from the King to the Conſpirators; eſpecially when on the one ſide there is no ſpecial Occaſion for them more than ordinary; and on the other, there are ſuch Popular Matters in agitation as give great Ad<g ref="char:EOLhyphen"/>vantage to ſuch a Deſign, may not juſtly be ſuſpected to be Treaſonable, and by Conſequence ought to be ſtoutly and reſo<g ref="char:EOLhyphen"/>lutely oppoſed by all <hi>Faithful</hi> and <hi>Loyal</hi> Subjects?</item>
+               </list>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
